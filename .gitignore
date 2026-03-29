@@ -1,0 +1,13 @@
+# Compiled C++ binaries
+engine
+*.so
+*.o
+*.out
+
+# Python cache
+__pycache__/
+.streamlit/
+
+# Virtual environments
+venv/
+.env
